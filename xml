@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="1">
+        <title>Introduction to IT</title>
+        <author>John Doe</author>
+        <published>2020</published>
+    </book>
+    <book id="2">
+        <title>Web Development Basics</title>
+        <author>Jane Smith</author>
+        <published>2021</published>
+    </book>
+    <book id="3">
+        <title>Advanced CSS Techniques</title>
+        <author>Emily Johnson</author>
+        <published>2019</published>
+    </book>
+    <book id="4">
+        <title>Responsive Design</title>
+        <author>Michael Brown</author>
+        <published>2022</published>
+    </book>
+</library>
