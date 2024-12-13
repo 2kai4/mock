@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <h1 class="center">Data Page</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>column 1</th>
+                    <th>column 2</th>
+                    <th>column 3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>row 1, cell 1</td>
+                    <td>row 1, cell 2</td>
+                    <td>row 1, cell 3</td>
+                </tr>
+                <tr>
+                    <td>row 2, cell 1</td>
+                    <td>row 2, cell 2</td>
+                    <td>row 2, cell 3</td>
+                </tr>
+                <tr>
+                    <td>row 3, cell 1</td>
+                    <td>row 3, cell 2</td>
+                    <td>row 3, cell 3</td>
+                </tr>
+                <tr>
+                    <td>row 4, cell 1</td>
+                    <td>row 4, cell 2</td>
+                    <td>row 4, cell 3</td>
+                </tr>
+            </tbody>
+        </table>
+        <footer>
+            <a href="data.xml">XML File</a>
+            <a href="data.json">JSON File</a>
+        </footer>
+    </main>
+</body>
+</html>
