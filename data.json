@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to IT",
+        "available": true
+    },
+    {
+        "id": 2,
+        "name": "Web Development Basics",
+        "available": false
+    },
+    {
+        "id": 3,
+        "name": "Advanced CSS Techniques",
+        "available": true
+    },
+    {
+        "id": 4,
+        "name": "Responsive Design",
+        "available": true
+    }
+]
